@@ -1,5 +1,7 @@
 # Blocus
 
+![Une partie de Blocus en cours](capture.png)
+
 Jeu de société de placement de pièces pour 4 joueurs, jouable dans le navigateur.
 
 ## Jouer
